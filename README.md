@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+🌱 I’m currently learning HTML, CSS and JS, at Noroff Frontend-developer course in 1st year. Now soon headed over to 2nd year for frameworks and more.
 <!--
 **tomive01888/tomive01888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
