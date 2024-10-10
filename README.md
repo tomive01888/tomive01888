@@ -1,5 +1,15 @@
 ## Hi there 👋
 🌱 I’m currently learning HTML, CSS and JS, at Noroff Frontend-developer course in 1st year. Now soon headed over to 2nd year for frameworks and more.
+
+# About me
+I am in pursuit of an education as frontend-developer at <a href="https://www.noroff.no/" target="_blank">Noroff Education</a>. I like to create and breathe life into creations others have designed or something I personally have designed myself.
+
+In my freetime I like to play videogames, watch YouTube videos about frogs, solo camping and any videogame related videos, and the occasional play-around in VS code with any APIs I find interesting.
+
+#
+#### Here's a frog for you!
+<img src="https://github.com/user-attachments/assets/03ef0c1a-ee7e-484c-9e9a-290b4488aaf5" alt="A potato fairy frog sitting on a plate" width="100" height="100">
+
 <!--
 **tomive01888/tomive01888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
